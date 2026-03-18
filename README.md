@@ -2,6 +2,8 @@
 
 This repository contains an in‑development 2D game called **Lanterns Trail**, built in GDevelop. It is a project centred on movement, light, and the connection between the two – how motion shapes illumination, and how illumination guides motion.
 
+---
+
 ## Project Contents
 
 A short summary of what each part of the project contains:
@@ -16,6 +18,8 @@ A short summary of what each part of the project contains:
 `CHANGELOG.md` – version history and recorded changes  
 `DESIGN-NOTES.md` – design intentions, tone, and interaction principles  
 
+---
+
 ## Development Process
 
 The game is being developed in GDevelop, including all scenes, objects, logic, and interactions.
@@ -27,7 +31,17 @@ The following process supports the game’s development:
 - the repository root records the project’s direction through the roadmap, dev log, changelog, and design notes  
 - when a build is ready to test, GDevelop exports it into the `builds/` directory  
 
+---
+
 ## Status
 
 Version `0.0.0` – Draft  
 The project is in its earliest phase, with structure, tone, and foundations being established.
+
+---
+
+
+<sub>© Mohammed Usman</sub>
+
+<sub>All rights reserved. No commercial use, redistribution, or derivatives.</sub>
+
