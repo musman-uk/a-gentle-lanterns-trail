@@ -1,7 +1,5 @@
 # RECORD
 
-A consolidated technical record covering design principles, development approach, version history, and planned work for *Lanterns Trail*.
-
 ---
 
 ## 1. Design Style
