@@ -8,19 +8,17 @@ This repository contains an in‑development 2D game called **Lanterns Trail**, 
 
 A short summary of what each part of the project contains:
 
-`game/` – core GDevelop project files, scenes, and event logic  
 `assets/` – sprites, audio, fonts, and visual elements  
 `builds/` – exported builds  
 `export/` – temporary GDevelop exports  
+`game/` – core GDevelop project files, scenes, and event logic  
+`.gitignore` – project‑level ignore rules  
 `README.md` – main overview of the project  
-`ROADMAP.md` – planned development and future milestones  
-`DEVLOG.md` – ongoing notes on progress and iteration  
-`CHANGELOG.md` – version history and recorded changes  
-`DESIGN-NOTES.md` – design intentions, tone, and interaction principles  
+`RECORD.md` – consolidated technical record for the project  
 
 ---
 
-## Development Process
+## Development Overview
 
 The game is being developed in GDevelop, including all scenes, objects, logic, and interactions.
 
