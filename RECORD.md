@@ -4,7 +4,7 @@ A consolidated technical record covering design principles, development approach
 
 ---
 
-## 1. Design Principles
+## 1. Design Style
 
 ### Tone & Experience
 - Quiet, exploratory movement; no urgency or failure states  
@@ -26,7 +26,7 @@ A consolidated technical record covering design principles, development approach
 
 ---
 
-## 2. Development Structure
+## 2. Development Process
 
 ### Repository Layout
 - `game/` for scenes, logic, and GDevelop project files  
