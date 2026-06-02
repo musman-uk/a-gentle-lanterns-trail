@@ -1,6 +1,6 @@
 # 🏮 Lanterns Trail
 
-This repository contains an in‑development 2D game called [Lanterns Trail](https://gd.games/musman-uk/lanterns-trail) - a game about movement, light, and the connection between the two.
+This repository contains [Lanterns Trail](https://gd.games/musman-uk/lanterns-trail) - a 2D game built in Gdevelop that is about movement, light, and the connection between the two.
 
 ---
 
