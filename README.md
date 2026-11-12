@@ -1,6 +1,6 @@
 # 🏮 A Gentle Lanterns Trail
 
-This repository contains [A Gentle Lanterns Trail](https://gd.games/musman-uk/a-gentle-lanterns-trail) - a 2D game built in GDevelop that is about movement, light, and the connection between the two.
+This repository contains [A Gentle Lantern's Trail](https://gd.games/musman-uk/a-gentle-lanterns-trail) - a 2D game built in GDevelop that is about movement, light, and the connection between the two.
 
 ---
 
