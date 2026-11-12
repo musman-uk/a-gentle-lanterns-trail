@@ -33,8 +33,8 @@ The following process supports the game’s development:
 
 ## Status
 
-Version `0.0.0` – Draft  
-The project is in its earliest phase, with structure, tone, and foundations being established.
+Version `1.0.0` – Published
+
 
 ---
 
